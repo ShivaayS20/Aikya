@@ -1,64 +1,66 @@
-# 🌐 CampusVerse — *Coming Soon*
+# 🌐 Aikya — Your Smart Campus Companion
 > “Learn smarter. Grow faster. All in one place.”
 
-CampusVerse is an **AI-powered campus platform** designed to make student learning organized, guided, and connected.  
-It merges two powerful ideas:
+---
 
-- 🎓 **CampusServe** → The community-driven resource hub for notes, PYQs, labs, and assignments.  
-- 🧭 **PathFinder** → The AI roadmap generator that builds personalized learning paths for any domain (Web Dev, AI, UI/UX, etc).  
+## 🎓 About Aikya
 
-Built for the **Lumina Hackathon 2025**, CampusVerse aims to become the digital backbone of modern campus learning — **combining AI, collaboration, and simplicity.**
+*Aikya* is a next-generation campus platform designed to make student learning *organized, guided, and connected*.  
+It merges collaboration, structure, and intelligent content discovery into a single web application.
+
+> The word Aikya means unity — a perfect reflection of how it connects students, seniors, and learning resources.
+
+Built for the *Lumina Hackathon 2025, Aikya aims to become the digital backbone of modern student life — bringing **resources, roadmaps, and mentorship* together under one roof.
 
 ---
 
 ## 🚀 Vision
 
-> Every student wastes time searching for resources and figuring out what to learn next.  
-> **CampusVerse fixes that** — by giving direction, structure, and support through AI + peer collaboration.
+> Every student wastes time searching for materials and figuring out what to learn next.  
+> *Aikya fixes that* by providing a clear direction, structured learning paths, and easy access to curated campus resources.
 
 ---
 
-## 🧠 What CampusVerse Will Offer
+## 🧠 What Aikya Offers
 
 | Feature | Description |
-|----------|--------------|
-| 🎓 **Campus Resource Hub** | A centralized space for college notes, PYQs, and assignments, organized by subject or semester. |
-| 🧭 **AI Roadmap Builder** | Personalized week-by-week learning paths created using free HuggingFace AI models. |
-| 🎥 **Smart Resource Finder** | Fetches the best YouTube tutorials automatically for each learning goal. |
-| 🧑‍🏫 **Senior Mentorship Corner** | Allows seniors to upload their roadmaps, advice, or playlists for juniors. |
-| 💬 **AI Assistant (Future)** | Students can ask questions or summarize notes directly from the platform. |
-| 🧩 **Learning Tracker (Future)** | Visual progress tracking and motivational reminders. |
+|----------|-------------|
+| 🎓 *Campus Resource Hub* | Centralized space for college notes, PYQs, lab files, and assignments organized by subject or semester. |
+| 🧭 *Personalized Roadmap Builder* | Week-by-week learning plans created dynamically based on user interest and available time. |
+| 🎥 *Smart Resource Finder* | Automatically fetches top YouTube tutorials for each learning goal. |
+| 🧑‍🏫 *Senior Mentorship Corner* | Allows seniors to upload their own roadmaps, advice, or playlists for juniors. |
+| 💬 *Study Assistant (Future)* | Students can ask questions or get summarized notes directly from the platform. |
+| 🧩 *Learning Tracker (Future)* | Visual progress tracking and motivational reminders. |
 
 ---
 
-## ⚙️ Planned Tech Stack
+## ⚙ Tech Stack
 
 | Layer | Tool | Purpose |
 |--------|------|----------|
-| **Frontend** | [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | Modern, responsive UI |
-| **Backend / DB** | [Supabase](https://supabase.com/) | Authentication, file storage, and database |
-| **AI Engine** | [Hugging Face Inference API](https://huggingface.co/inference-api) | Free models for AI roadmap generation |
-| **Video API** | [YouTube Data API v3](https://developers.google.com/youtube/v3) | Fetch curated tutorial content |
-| **Deployment** | [Vercel](https://vercel.com/) / [Replit](https://replit.com/) | One-click deployment |
-| **UI Icons** | [Lucide React](https://lucide.dev/) | Clean open-source icon set |
+| *Frontend* | [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | Modern, responsive UI |
+| *Backend / DB* | [Supabase](https://supabase.com/) | Authentication, file storage, and database |
+| *APIs* | [YouTube Data API v3](https://developers.google.com/youtube/v3) | Fetch curated tutorials |
+| *Deployment* | [Vercel](https://vercel.com/) / [Replit](https://replit.com/) | One-click deployment |
+| *UI Icons* | [Lucide React](https://lucide.dev/) | Clean open-source icon set |
 
 ---
 
 ## 🧩 MVP Plan (Hackathon Version)
 
-### Phase 1 (Core)
-- AI roadmap generator  
+### Phase 1 – Core
+- Personalized roadmap generator  
 - Resource upload & viewing  
-- Dashboard with roadmap display  
+- Dashboard for roadmap + resources  
 - YouTube API integration  
 
-### Phase 2 (Enhancements)
+### Phase 2 – Enhancements
 - Senior roadmap uploads  
-- AI summarizer for notes  
-- Dashboard polish  
+- Note summarizer  
+- UI polish & animations  
 
-### Phase 3 (Future Scope)
-- Doubt-solving AI  
+### Phase 3 – Future
+- Doubt-solving chatbot  
 - Progress tracker  
 - Campus announcements & events feed  
 
@@ -66,14 +68,13 @@ Built for the **Lumina Hackathon 2025**, CampusVerse aims to become the digital 
 
 ## 🎨 Design Philosophy
 
-- Gradient-based UI (purple → fuchsia theme)  
-- Glassmorphism cards with neon highlights  
-- Mobile-first design  
-- Emphasis on readability and minimal clicks  
+- Gradient theme: *purple → fuchsia*
+- *Glassmorphism cards* with soft neon highlights  
+- *Mobile-first* responsive layout  
+- Minimal clicks, maximum clarity  
 
-> Goal: *“Make it beautiful enough for judges to remember and simple enough for students to use daily.”*
+> “Beautiful enough for judges to remember, simple enough for students to use daily.”
 
 ---
 
-## 🏗️ Project Structure (planned)
-
+## 🏗 Project Structure (Planned)
